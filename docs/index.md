@@ -4,7 +4,7 @@ title: "Home"
 nav_order: 1
 ---
 
-# Turns Codebase into Easy Tutorial
+# Turns Codebase into Easy Tutorial - Pocket Flow
 
 Ever stared at a new codebase written by others feeling completely lost? This project analyzes GitHub repositories and creates beginner-friendly tutorials explaining exactly how the code works - all powered by AI! Our intelligent system automatically breaks down complex codebases into digestible explanations that even beginners can understand.
 
